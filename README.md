@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Zaki Ahmed (JIKIRIYA)</h1>
+
+<h1 align="center">Hi 👋, I'm Zaki Ahmed </h1>
+
 <h3 align="center">📊 A Passionate Data Analyst from India </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiahmed85&label=Profile%20views&color=0e75b6&style=flat" alt="zakiahmed85" /> </p>
 
 
-
-
-- 💬 Ask me about Python, Data Visulation, Statistics fundamentals
+- 💬 Ask me about Python, SQL, Data Visulation, Statistics fundamentals
 - 👨‍💻 All of my projects are available at [https://github.com/zakiahmed85](https://github.com/zakiahmed85)
 
 
