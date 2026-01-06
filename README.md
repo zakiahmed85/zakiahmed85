@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Zaki Ahmed </h1>
+<h1 align="center">Hi 👋, I'm Jikiriya </h1>
 
 <h3 align="center">📊 A Passionate Data Analyst from India </h3>
 
